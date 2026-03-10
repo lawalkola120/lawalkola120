@@ -9,7 +9,7 @@ i'm a self-taught data analyst with a background in radiography- now building im
 - Python
 
 - ## My project
-- Lawal gadget dashboard Analysis
+- [Lawal gadget dashboard Analysis](https://github.com/lawalkola120/Lawal-gadget-store-Analysis)
 - Bike sales dashboard (....)
 
 - ## Currently Learning
