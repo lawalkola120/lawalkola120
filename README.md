@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, i'm Lawal
 
-<!--
-**lawalkola120/lawalkola120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a self-taught data analyst with a background in radiography- now building impactful projects in Excel, SQL, Power BI and python.
 
-Here are some ideas to get you started:
+## Tools i work with
+- Microsoft Excel
+- SQL
+- Power Bi
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## My project
+- Lawal gadget dashboard Analysis
+- Bike sales dashboard (....)
+
+- ## Currently Learning
+- Advanced SQL
+- Python for Data Science
+
+- ## Let's Connect:
+- [http://linkedin.com/in/lawal-kola-93400a380]
+
+- 
