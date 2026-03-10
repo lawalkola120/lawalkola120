@@ -10,7 +10,7 @@ i'm a self-taught data analyst with a background in radiography- now building im
 
 - ## My project
 - [Lawal gadget dashboard Analysis](https://github.com/lawalkola120/Lawal-gadget-store-Analysis)
-- Bike sales dashboard (....)
+- [Bike sales dashboard](https://github.com/lawalkola120/Bike-Sales-Dashboard)
 
 - ## Currently Learning
 - Advanced SQL
