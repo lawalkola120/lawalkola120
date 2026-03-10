@@ -1,4 +1,4 @@
-# Hi, i'm Lawal
+# Hi, I'm Lawal
 
 i'm a self-taught data analyst with a background in radiography- now building impactful projects in Excel, SQL, Power BI and python.
 
